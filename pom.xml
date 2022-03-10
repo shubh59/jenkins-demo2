@@ -4,7 +4,7 @@
   <groupId>com.demo</groupId>
   <artifactId>jenkins-demo2</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>jenkins-demo2</name>
   <url>http://maven.apache.org</url>
   <properties>
