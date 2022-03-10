@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage("checkout"){
             steps{
-                git "https://github.com/shubh59/jenkins-demo2.git"
+                bat "git clone https://github.com/shubh59/jenkins-demo2.git"
             }
         }
         stage("compile"){
